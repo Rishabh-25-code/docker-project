@@ -1,0 +1,22 @@
+# Ignore MySQL data directory
+data/
+
+# Ignore node_modules
+node_modules/
+mynotes/node_modules/
+
+# Ignore git
+.git/
+.gitignore
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore Docker files
+docker-compose.yml
+Dockerfile
